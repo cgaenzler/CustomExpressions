@@ -1,0 +1,2 @@
+# Creates a random year column for years between 2000 and 2016
+Date(RandBetween(2000,2016,345),1,1)
